@@ -1,5 +1,5 @@
-# Create a function called main.
+# main nomli funksiya yarating
 
-# Create function arguments a.
-
-# Return the opposite value of a.
+# Funksiya argumenti a ni yarating
+    
+# a ning qarama-qarshi qiymatini qaytaring
