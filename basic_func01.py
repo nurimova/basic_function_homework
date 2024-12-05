@@ -1,3 +1,3 @@
-# Create a function called main.
+# main nomli funksiya yarating
 
-# Return the value 0
+# 0 qiymatini qaytaring
