@@ -1,3 +1,3 @@
-# Create a function called main.
+# main nomli funksiya yarating
 
-# Return the value integer type.
+# Butun son (integer) tipidagi qiymatni qaytaring
