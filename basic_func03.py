@@ -1,3 +1,3 @@
-# Create a function called main.
+# main nomli funksiya yarating
 
-# Return the value "codeacademyuz"
+# "python foundation" qiymatini qaytaring
