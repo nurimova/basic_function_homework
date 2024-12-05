@@ -6,182 +6,186 @@ Automated grading of homework assignments and tests
 - solve the task
 - commit with proper message
 - commit with proper message
+# Masalalar tavsifi
 
-# Problems
 ## basic_func01
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
+**Misol 1**:
 
 ```Python
-Input:
-Output: 0
-
+Kiritish:
+Chiqarish: 0
 ```
+
+---
 
 ## basic_func02
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
+**Misol 1**:
 
 ```Python
-Input:
-Output: "Hello World"
-
+Kiritish:
+Chiqarish: "Hello World"
 ```
+
+---
 
 ## basic_func03
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
+**Misol 1**:
 
 ```Python
-Input:
-Output: "codeschooluz"
-
+Kiritish:
+Chiqarish: "codeschooluz"
 ```
+
+---
 
 ## basic_func04
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input:
-Output (int): 1
-
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input:
-Output (int): -1
-
+Kiritish:
+Chiqarish (int): 1
 ```
+
+**Misol 2**:
+
+```Python
+Kiritish:
+Chiqarish (int): -1
+```
+
+---
 
 ## basic_func05
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input:
-Output (float): 1.5
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input:
-Output (float): -2.4
+Kiritish:
+Chiqarish (float): 1.5
 ```
+
+**Misol 2**:
+
+```Python
+Kiritish:
+Chiqarish (float): -2.4
+```
+
+---
 
 ## basic_func06
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input:
-Output (str): "Hello World"
-
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input:
-Output (str): "0"
-
+Kiritish:
+Chiqarish (str): "Hello World"
 ```
+
+**Misol 2**:
+
+```Python
+Kiritish:
+Chiqarish (str): "0"
+```
+
+---
 
 ## basic_func07
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input: a = 5
-Output: 5
-
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input: a = 0
-Output: 0
-
+Kiritish: a = 5
+Chiqarish: 5
 ```
+
+**Misol 2**:
+
+```Python
+Kiritish: a = 0
+Chiqarish: 0
+```
+
+---
 
 ## basic_func08
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input: a = 5
-Output: 6
-
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input: a = 8
-Output: 9
-
+Kiritish: a = 5
+Chiqarish: 6
 ```
+
+**Misol 2**:
+
+```Python
+Kiritish: a = 8
+Chiqarish: 9
+```
+
+---
 
 ## basic_func09
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input: a = 5
-Output: 4
-
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input: a = 8
-Output: 7
-
+Kiritish: a = 5
+Chiqarish: 4
 ```
+
+**Misol 2**:
+
+```Python
+Kiritish: a = 8
+Chiqarish: 7
+```
+
+---
 
 ## basic_func10
 
-  Create a function called main.
+**Vazifa**: `main` nomli funksiya yarating.
 
-**Example 1:**
-
-```Python
-Input: a = 5
-Output: -5
-
-```
-
-**Example 2:**
+**Misol 1**:
 
 ```Python
-Input: a = 1
-Output: -1
-
+Kiritish: a = 5
+Chiqarish: -5
 ```
 
+**Misol 2**:
+
+```Python
+Kiritish: a = 1
+Chiqarish: -1
+```
+
+--- 
 # Warning
 - don't copy other solutions or any solution
 - don't remove comments
