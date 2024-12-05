@@ -42,7 +42,7 @@ Chiqarish: "Hello World"
 
 ```Python
 Kiritish:
-Chiqarish: "codeschooluz"
+Chiqarish: "python foundation"
 ```
 
 ---
