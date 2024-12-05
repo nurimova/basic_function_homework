@@ -1,3 +1,4 @@
-# Create a function called main.
 
-# Return the value str type.
+# main nomli funksiya yarating
+
+# Matn (str) tipidagi qiymatni qaytaring
