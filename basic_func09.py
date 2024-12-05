@@ -1,5 +1,5 @@
-# Create a function called main.
+# main nomli funksiya yarating
 
-# Create function arguments a.
-
-# decrease the value of a to one and return
+# Funksiya argumenti a ni yarating
+    
+# a qiymatini birga kamaytirib qaytaring
